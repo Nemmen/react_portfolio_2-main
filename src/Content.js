@@ -12,9 +12,9 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/Projects/img1.png";
+
 import project2 from "./assets/images/Projects/website.webp";
-import project3 from "./assets/images/Projects/metro.png";
+
 import person_project from "./assets/images/Hero/mypic_.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -139,7 +139,7 @@ export const content = {
     project_content: [
       {
         title: "EmpowerMend",
-        image: project1,
+        image: project2,
         link:"https://github.com/Nemmen/comm-fire"
       },
       {
@@ -149,7 +149,7 @@ export const content = {
       },
       {
         title: "metropolitanfence",
-        image: project3,
+        image: project2,
         link:"https://www.metropolitanfence.ca/"
       },{
         title:"CleanScape - app" ,
